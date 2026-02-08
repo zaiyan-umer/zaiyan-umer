@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.zaiyan.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://github.com/zaiyan-umer" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
