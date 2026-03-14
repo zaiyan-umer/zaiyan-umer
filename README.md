@@ -5,11 +5,7 @@
 [![LinkedIn: Zaiyan](https://img.shields.io/badge/-Zaiyan%20Umer-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaiyan-umer-935525324/)
 [![zaiyan.me](https://img.shields.io/badge/zaiyan.me-000?style=flat-square&logo=vercel&logoColor=white)](https://zaiyan.me/)
 [![GitHub followers](https://img.shields.io/github/followers/zaiyan-umer?label=Follow&style=social)](https://github.com/zaiyan-umer)
-<br/>
 ---
-
-<br/> 
-<br/> 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -55,21 +51,3 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-  
-<br />
-
----
-
-## Academic & Learning Focus
-
-- **Artificial Intelligence & Machine Learning**  
-- **Database Systems** — SQL, Oracle  
-- **Software Design & Analysis**  
-- **Operating Systems**  
-- **Data Structures & Algorithms**  
-- **Object-Oriented Programming**  
-- **Assembly Language (low-level fundamentals)**  
-
-This academic foundation guides how I approach building efficient, scalable, and well-structured software systems.
