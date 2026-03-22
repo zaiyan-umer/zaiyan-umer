@@ -1,6 +1,5 @@
 <h2> Hi, I'm Zaiyan! <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzcxM2F5b3A4cjN4ZGJyZGY5N202aHZ5Z3JrdnFxaGxwbGJzcWl5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif" width="40"></h2>
-<p><em>Computer Science at <a href="https://www.nu.edu.pk/">FAST NUCES</a> &nbsp; <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9kM2NycjNsbGZmYnYxeHViaDFwdXIzcG0yeDc3MXdvaHNkeXFpcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IPbS5R4fSUl5S/giphy.gif" width="65">
-</em></p>
+<p><em>Computer Science at <a href="https://www.nu.edu.pk/">FAST NUCES</a></em></p>
 
 [![LinkedIn: Zaiyan](https://img.shields.io/badge/-Zaiyan%20Umer-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaiyan-umer-935525324/)
 [![zaiyan.me](https://img.shields.io/badge/zaiyan.me-000?style=flat-square&logo=vercel&logoColor=white)](https://zaiyan.me/)
